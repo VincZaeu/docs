@@ -66,7 +66,7 @@ The compare and pull request pages use different methods to calculate the diff f
 - "[Pull request](/articles/github-glossary/#pull-request)" in the {% data variables.product.prodname_dotcom %} glossary
 - "[About branches](/articles/about-branches)"
 - "[Commenting on a pull request](/articles/commenting-on-a-pull-request)"
-- "[Merging a pull request](/articles/merging-a-pull-request)"
+(/articles/merging-a-pull-request)"
 - "[Closing a pull request](/articles/closing-a-pull-request)"
 - "[Deleting unused branches](/articles/deleting-unused-branches)"
 - "[About pull request merges](/articles/about-pull-request-merges)"
